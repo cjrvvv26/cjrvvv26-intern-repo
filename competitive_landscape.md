@@ -10,6 +10,9 @@
 - A step-by-step guide or coaching.
 
 ## Based on your research, what’s one improvement you think Focus Bear could make?
-- I noticed on those apps, yes they have subscription but I feel like it's worth it to spend my money to it. I mean those apps looks premium.
-The first thing that users will notice on every app is the UI or interface of the app. Focus bear has potential, the features is good and the simplicity applies.
-But for the user engage to the app, the interface must be improve, not just the mobile and desktop but also in the website. I think, much better if the app looks simple and yet premium to the eyes of its users.
+- Based on my research, one key improvement Focus Bear could make is enhancing its UI/UX to feel more polished and “premium” while keeping its simplicity.
+- I explored competitor apps like Freedom and Cold Turkey by visiting their websites, reading user reviews, and checking what they offer to their users.
+
+- Freedom offers a clean, modern interface with cross-device blocking, scheduled sessions, and a polished dashboard that makes it feel reliable and premium.
+- Cold Turkey focuses on strict blocking features with a simple but strong interface, including scheduled locks and a “frozen” mode that prevents users from bypassing restrictions.
+- Compare to these, Focus Bear already has strong features like structured routines, focus sessions, and habit management. However, its interface feels less visiually refined and engaging. This affects the first impressions because users often judge the quality of an app based on its design. Focus bear could improve its UI/UX by using more consistent layouts, better spacing, and modern UI elements. The goal is to make it simple and yet feels like premium.
