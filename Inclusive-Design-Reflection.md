@@ -17,16 +17,14 @@
 - I can use clear, simple, direct language, and give structured instructions.
   I will also be patient and allow time for their response.
 ### What are some common UX or communication pitfalls that might make Focus Bear less accessible or supportive?
-- Inconsistent design, complex interfaces, too many distractions, and unclear instructions. Those are the
-  errors that must avoid.
+- Common UX or communication pitfalls that might make Focus Bear less accessible include inconsistent design, overly complex interfaces, too many distractions, and unclear instructions. These issues can confuse users and make it harder for neurodivergent individuals to stay focused and complete tasks effectively.
 ### What is one practical change you can make in your work to better support vulnerable populations?
 - By ensuring by work uses clear and yet simple language with well-structured content. So that users
   find it easier to understand and navigate.
 
 ## Task
 ### Practice writing a clear, patient, and supportive response to a hypothetical user struggling with executive functioning.
-- Hey, I get that sometimes starting things can feel overwhelming and that's totally normal.
-  You dont have to do everything at once, just take your time to plan and pick a one small step and
-  start there. Even tiny steps is still a progress.
-  I have a suggestion, instead of thinking all the task, just imagine them by parts for you to avoid the
-  overwhelming thoughts. No pressure, go to the steps where you're comfortable, I'm here.
+- Title: “ADHD: My Story” - The Portland Clinic
+- Link: https://www.theportlandclinic.com/adhd-my-story/
+- The author describes struggling with ADHD symptoms like constant distraction and difficulty starting or managing tasks. She explains how her thoughts often jumps between many things at once, making it hard to focus on a certain task. This showed me that apps like focus bear that support simple task tracking and minimal distraction can help users stay focused.
+
